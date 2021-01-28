@@ -4,13 +4,13 @@ A forum app generated in Reactjs with hooks in Typescript
 
 ## Scrrenshots
 
-![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/master/Screenshots/Screen%20Shot%20-%20Homepage.png)
+![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/main/Screenshots/Screen%20Shot%20-%20Homepage.png)
 
-![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/master/Screenshots/Screen%20Shot%20-%20UserDetails.png)
+![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/main/Screenshots/Screen%20Shot%20-%20UserDetails.png)
 
-![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/master/Screenshots/Screen%20Shot%20-%20PostDetails.png)
+![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/main/Screenshots/Screen%20Shot%20-%20PostDetails.png)
 
-![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/master/Screenshots/Screen%20Shot%20-%20AutoSearch.png)
+![ScreenShot](https://github.com/PulkitSaxena/forum-reactjs/blob/main/Screenshots/Screen%20Shot%20-%20AutoSearch.png)
 
 ### Prerequisities
 
