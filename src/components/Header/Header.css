@@ -1,0 +1,12 @@
+header {
+    display: block;
+    color: white;
+    background: #3799da;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 2rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border:0.5px solid gray;
+  }

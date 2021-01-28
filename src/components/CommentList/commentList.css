@@ -1,0 +1,13 @@
+.comments{
+    padding: 2rem;
+    justify-items: center;
+    background-color: whitesmoke;
+}
+
+.comments-detail-item {
+    padding: 0.5rem;
+}
+
+.comments-detail-item>textarea {
+    width: 70%;
+}
